@@ -1,0 +1,42 @@
+make ssh keys:
+https://jdblischak.github.io/2014-09-18-chicago/novice/git/05-sshkeys.html
+
+
+cd /media/pi/Data/aa_raspberry_pi/china supply master/try github
+
+begin met een lege directory
+
+#git init
+#  	
+
+#vanuit try/aa:
+git clone git@github.com:timmeh1955/CS.git
+
+a.bat
+
+git add .
+git status
+git commit -m "description"
+git push -u origin main
+
+-----
+
+git add .
+git status
+git commit -m "description"
+git push -u origin main
+
+
+git remote add origin git@github.com:ezraholm50/server-client.git
+git remote add origin git@github.com:timmeh1955/aaa.git
+git branch -M main
+git push -u origin main
+
+git push -u "https://git@github.com:timmeh1955/aaa.git" master
+
+https://github.com/timmeh1955/aaa/blob/61fa8284f751a8f0169b3955633f7daab34df396/client.py?raw=true -O client.py && sudo python client.py
+
+https://github.com/ezraholm50/server-client
+
+
+
